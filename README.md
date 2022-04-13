@@ -58,8 +58,6 @@
 ## 1. About The Project
 This was the second project for COMP10001 (Foundations of Computing) at the University of Melbourne. Descriptions for various functions were provided via Grok Learning and checked against various inputs. The <a href="#project-description">Project Description</a> and <a href="#function-descriptions">Function Descriptions</a> will be below. <b> Final mark: 94% </b>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## 2. Project Description
 ### Background
 In this project, you will implement a program that plays a game called “Phazed”, which is a variant of Phase 10, which is in turn a variant of rummy. Why a variant? Because Tim can’t help himself ... or more seriously, because Tim wanted to come up with a version that was more compatible with a computational implementation (e.g. not too long, and suitably algorithmically complex).
